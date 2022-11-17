@@ -1,0 +1,67 @@
+body{
+    background-color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+/* Address Section*/
+#address{
+    padding-top: 40px;
+    text-align: center;
+}
+
+h1{
+    margin-bottom:0;
+}
+
+#About_me{
+    width: 80%;
+    background-color:rgb(131, 211, 184);
+    height: auto;
+    margin: 0 10% 0 10%;
+    padding: 40px 0 5px 15px;;
+}
+.about_left{
+    width: 30%;
+    float: left;
+    padding: 0px 120px 0 10px;
+}
+.about_right{
+    width: 50%;
+    display: inline-block;
+    line-height: 2rem;
+    padding: 0 5px 5px 5px;
+    border-left: solid 1px black;
+}
+#skills{
+    width: 80%;
+    background-color:rgb(151, 226, 201);
+    height: auto;
+    margin:0 10% 0 10% ;
+    line-height: 2rem;
+    padding: 40px 0 5px 15px;
+}
+#CV{
+    width: 80%;
+    background-color:rgb(131, 211, 184);
+    height: auto;
+    margin:0 10% 0 10% ;
+    line-height: 2rem;
+    padding: 40px 0 5px 15px;
+}
+#Hobbies{
+    width: 80%;
+    background-color:rgb(151, 226, 201);
+    height: auto;
+    margin:0 10% 0 10% ;
+    line-height: 2rem;
+    padding: 40px 0 5px 15px;
+}
+#form{
+    width: 80%;
+    background-color:rgb(131, 211, 184);
+    height: auto;
+    margin:0 10% 0 10% ;
+    line-height: 2rem;
+    padding: 10px 0 5px 15px;
+}
+
